@@ -64,7 +64,7 @@ cacheSolve <- function(x, ...) {
   inv
 }
 
-#Example: 
+#Example:
 #> x = rbind(c(1, 1), c(3, 4))
 #> m = makeCacheMatrix(x)
 #> m$get()
